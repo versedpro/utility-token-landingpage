@@ -56,16 +56,16 @@ function Nav({ Tab }) {
           <a href="https://invesableai.com/">Buy Presale</a>
           <div className="divider"></div>
           <div className="social-icons">
-            <a href="https://t.me/AiFundOfficial" target="_blank" rel="noreferrer">
+            <a href="https://t.me/" target="_blank" rel="noreferrer">
               <img src="/assets/telegram.svg" alt="" />
             </a>
-            <a href="https://discord.gg/aifund" target="_blank" rel="noreferrer">
+            <a href="https://discord.gg/" target="_blank" rel="noreferrer">
               <img src="/assets/discord.svg" alt="" />
             </a>
-            <a href="https://twitter.com/AiFundOfficial" target="_blank" rel="noreferrer">
+            <a href="https://twitter.com/" target="_blank" rel="noreferrer">
               <img src="/assets/twitter.svg" alt="" />
             </a>
-            <a href="https://medium.com/@aifundscrypto" target="_blank" rel="noreferrer">
+            <a href="https://medium.com/" target="_blank" rel="noreferrer">
               <img src="/assets/medium.svg" alt="" />
             </a>
             <a href="https://gitbook.com/" target="_blank" rel="noreferrer">
