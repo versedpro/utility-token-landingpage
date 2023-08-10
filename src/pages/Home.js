@@ -159,7 +159,7 @@ function Home() {
               Let our AI technology help you make smarter trades and maximize your profits.
             </p>
             <div className="mobi-cent" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="300">
-              <a href="https://invesableai.com/" target="_blank" rel="noreferrer">
+              <a href="https://presale.invesableaitoken.com/" target="_blank" rel="noreferrer">
                 <button className="buypresale">Buy Presale</button>
               </a>
             </div>
@@ -494,7 +494,7 @@ function Home() {
             <a
               data-aos="zoom-in"
               data-aos-duration="500"
-              href="https://invesableai.com/"
+              href="https://presale.invesableaitoken.com/"
               target="_blank"
               rel="noreferrer"
             >
