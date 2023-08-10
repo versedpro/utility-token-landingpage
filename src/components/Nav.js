@@ -53,7 +53,7 @@ function Nav({ Tab }) {
             Whitepaper
           </a>
           <div className="divider"></div>
-          <a href="https://invesableai.com/">Buy Presale</a>
+          <a href="https://presale.invesableaitoken.com/">Buy Presale</a>
           <div className="divider"></div>
           <div className="social-icons">
             <a href="https://t.me/" target="_blank" rel="noreferrer">
@@ -96,7 +96,7 @@ function Nav({ Tab }) {
               Whitepaper
             </a>
           </div>
-          <a className="noanim hide-800" href="https://invesableai.com/" target="_blank" rel="noreferrer">
+          <a className="noanim hide-800" href="https://presale.invesableaitoken.com/" target="_blank" rel="noreferrer">
             <button className="buypresale-nav">Buy Presale</button>
           </a>
         </div>
